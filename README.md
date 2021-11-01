@@ -14,6 +14,6 @@ Hello guys, here I am going to share 30 Cool Projects that you can make using HT
 
 ### 1. Analog Clock using HTML,CSS and JS
 We will create three files (HTML file, a CSS file, and JavaScript File), we also have an image of the clock that will be used in the background, and on top of that, we will make an hour, minute, and second hand (using HTML and CSS). These hands will rotate as per the system time using JavaScript.
-Thing to Project :
+Thing you will learn from this Project :
 1. Transition and Transform Property in CSS.
 2. new Date() inbuilt method of JS.
