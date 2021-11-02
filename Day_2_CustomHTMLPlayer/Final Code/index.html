@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>HTML Video Player</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="player">
+      <!-- Video -->
+      <video class="player__video viewer" src="hillVid.mp4"></video>
+
+      <!-- Player Controls -->
+      <div class="player__controls">
+        <!-- Progress Bar -->
+        <div class="progress">
+          <input
+            type="range"
+            name="progress"
+            class="progress__filled"
+            min="0"
+            max="1"
+            step="0.05"
+            value="1"
+          />
+        </div>
+
+        <!-- Play/Pause Button -->
+        <button class="player__button toggle" title="Toggle Play">►</button>
+
+        <!-- Volume Slider -->
+        <span class="inputName">Volume</span>
+        <input
+          type="range"
+          name="volume"
+          class="player__slider"
+          min="0"
+          max="1"
+          step="0.05"
+          value="1"
+        />
+
+        <!-- Playback Rate -->
+        <span class="inputName">Playback Speed</span>
+        <input
+          type="range"
+          name="playbackRate"
+          class="player__slider"
+          min="0.5"
+          max="2"
+          step="0.1"
+          value="1"
+        />
+
+        <!-- Utility buttons  -->
+        <button data-skip="-10" class="player__button">« 10s</button>
+        <button data-skip="10" class="player__button">10s »</button>
+        <button class="player__button fullScreen">
+          <img
+            style="background-color: aliceblue; width: 17px"
+            src="https://img.icons8.com/ios-glyphs/30/000000/full-screen--v1.png"
+          />
+        </button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
