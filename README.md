@@ -21,4 +21,5 @@ Things you will learn from this Project :
 ### 2. Custom HTML Video Player
 We will create three files (HTML file, a CSS file, and JavaScript File), we also have a sample video for testing our progress. I included Video slider, Play/Pause button, Volume Slider, Playback Speed slider, Skip Buttons and FullScreen button functionig using JavaScript. 
 Things you will learn from this Project :
-1. Playing with Input tag and controling it using JavaScript.
+1. Methods controling Video in Javascript
+2. Playing with Input tag and controling it using JavaScript.
