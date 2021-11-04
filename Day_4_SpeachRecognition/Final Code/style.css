@@ -1,0 +1,41 @@
+html {
+  font-size: 30px;
+}
+
+body {
+  background: #d8b6a4;
+  font-family: "helvetica neue";
+  font-weight: 200;
+  font-size: 30px;
+}
+
+.words {
+  max-width: 500px;
+  margin: 50px auto;
+  background: #eeebdd;
+  border-radius: 8px;
+  box-shadow: 20px 20px 0 rgba(0, 0, 0, 0.1);
+  padding: 1rem 2rem 1rem 5rem;
+  background-size: 100% 4rem;
+  position: relative;
+  line-height: 4rem;
+}
+
+p {
+  margin: 0 0 2rem;
+}
+
+.words:before {
+  content: "";
+  position: absolute;
+  width: 4px;
+  top: 0;
+  left: 30px;
+  bottom: 0;
+  border: 2px solid;
+  border-color: transparent #630000;
+}
+
+img {
+  width: 400px;
+}
