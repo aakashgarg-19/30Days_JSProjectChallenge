@@ -10,7 +10,7 @@ Hello guys, here I am going to share 30 Cool Projects that you can make using HT
 6. And Last but not the least Follow me on Twitter[<a href="https://twitter.com/Aakash_onLand" target="_blank">@Aakash_onLand</a>] and LinkedIn[<a href="https://www.linkedin.com/in/aakash-garg-84092b1b7/" target="_blank">@AakashGarg</a>] and Like and Retweet my Posts to motivate me for doing such things more.
 
 # Basic introduction to these 30 Projects :
-[Currently 3, All 30 will be updated till 30th Nov (1 Everyday). Stay tuned !!]
+[Currently 4, All 30 will be updated till 30th Nov (1 Everyday). Stay tuned !!]
 
 ### 1. Analog Clock using HTML,CSS and JS
 We will create three files (HTML file, a CSS file, and JavaScript File), we also have an image of the clock that will be used in the background, and on top of that, we will make an hour, minute, and second hand (using HTML and CSS). These hands will rotate as per the system time using JavaScript.
@@ -30,3 +30,9 @@ Things you will learn from this Project :
 1. How to add CSS variable in .css file
 2. Changing css variable in Javascript
 3. Playing with Input tag and controling it using JavaScript.
+
+### 4. Speech Recognition Typer [Diwali Special]
+In this project we will make speech recognition system which will Type as we Talk to it. We will create three files (HTML file, a CSS file, and JavaScript File), we also create DIWALI twist. In which Happy Diwali image will also occur When we will say "Diwali". I made this project without any api or framework.
+Things you will learn from this Project :
+1. Inbuilt Speach Recognition of JavaScript
+2. How to perform any actions with speech.
