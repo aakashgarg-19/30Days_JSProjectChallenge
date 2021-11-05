@@ -36,3 +36,9 @@ In this project we will make speech recognition system which will Type as we Tal
 Things you will learn from this Project :
 1. Inbuilt Speach Recognition of JavaScript
 2. How to perform any actions with speech.
+
+### 5. Mini_TypeAhead
+In this project I have made Type Ahead Prototype. Which is basically a technique which is basically used by search engines to provide real time Search Results. I said my project a Prototype because it is not very optimised as our search engines, But it performs similar function. I created three files (HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. Use of RegExp a JavaScript method.
+2. Introduction to Async/Await. But next project will be having more detailed explanation of this topic. 
