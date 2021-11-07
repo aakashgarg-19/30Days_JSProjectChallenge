@@ -10,7 +10,7 @@ Hello guys, here I am going to share 30 Cool Projects that you can make using HT
 6. And Last but not the least Follow me on Twitter[<a href="https://twitter.com/Aakash_onLand" target="_blank">@Aakash_onLand</a>] and LinkedIn[<a href="https://www.linkedin.com/in/aakash-garg-84092b1b7/" target="_blank">@AakashGarg</a>] and Like and Retweet my Posts to motivate me for doing such things more.
 
 # Basic introduction to these 30 Projects :
-[Currently 4, All 30 will be updated till 30th Nov (1 Everyday). Stay tuned !!]
+[Currently 6, All 30 will be updated till 30th Nov (1 Everyday). Stay tuned !!]
 
 ### 1. Analog Clock using HTML,CSS and JS
 We will create three files (HTML file, a CSS file, and JavaScript File), we also have an image of the clock that will be used in the background, and on top of that, we will make an hour, minute, and second hand (using HTML and CSS). These hands will rotate as per the system time using JavaScript.
@@ -38,7 +38,13 @@ Things you will learn from this Project :
 2. How to perform any actions with speech.
 
 ### 5. Mini_TypeAhead
-In this project I have made Type Ahead Prototype. Which is basically a technique which is basically used by search engines to provide real time Search Results. I said my project a Prototype because it is not very optimised as our search engines, But it performs similar function. I created three files (HTML file, a CSS file, and JavaScript File).
+In this project I have made Type Ahead Prototype. Which is basically a technique which is basically used by search engines to provide real time Search Results. I said my project is a Prototype because it is not very optimised as our search engines, But it performs similar function. I created three files (HTML file, a CSS file, and JavaScript File).
 Things you will learn from this Project :
 1. Use of RegExp a JavaScript method.
 2. Introduction to Async/Await. But next project will be having more detailed explanation of this topic. 
+
+### 6. Vaccination Site Finder
+In this project I have used Setu API's API to search for vaccination sites. Which you can search using PIN_CODE and DATE.I created three files (HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. Asych/Await for fetching contect from API and Rendering it.
+2. How to change Input date format of MM-DD-YYYY to DD-MM-YYYY [Trust me it was very brain stroming task]. 
