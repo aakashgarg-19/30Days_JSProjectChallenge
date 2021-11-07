@@ -25,7 +25,7 @@ Things you will learn from this Project :
 2. Playing with Input tag and controling it using JavaScript.
 
 ### 3. CSS Adjuster
-In this project we will make CSS Adjuster which will help us change CSS at runtime. We will create three files (HTML file, a CSS file, and JavaScript File), we also have a sample image for testing our progress. I included Size slider, Visibility slider and Border colour selecter.
+In this project, We will make CSS Adjuster which will help us change CSS at runtime. We will create three files (HTML file, a CSS file, and JavaScript File), we also have a sample image for testing our progress. I included Size slider, Visibility slider and Border colour selecter.
 Things you will learn from this Project :
 1. How to add CSS variable in .css file
 2. Changing css variable in Javascript
@@ -44,7 +44,7 @@ Things you will learn from this Project :
 2. Introduction to Async/Await. But next project will be having more detailed explanation of this topic. 
 
 ### 6. Vaccination Site Finder
-In this project I have used Setu API's API to search for vaccination sites. Which you can search using PIN_CODE and DATE.I created three files (HTML file, a CSS file, and JavaScript File).
+In this project, I have used Setu API's API to search for vaccination sites. Which you can search using PIN_CODE and DATE.I created three files (an HTML file, a CSS file, and JavaScript File).
 Things you will learn from this Project :
-1. Asych/Await for fetching contect from API and Rendering it.
-2. How to change Input date format of MM-DD-YYYY to DD-MM-YYYY [Trust me it was very brain stroming task]. 
+1. Asych/Await for fetching content from API and Rendering it.
+2. How to change Input date format of MM-DD-YYYY to DD-MM-YYYY [Trust me it was very brainstorming task]. 
