@@ -1,0 +1,147 @@
+/* Main CSS */
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  border: 1px solid silver;
+  -ms-box-orient: horizontal;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: flex;
+}
+
+.flex-item {
+  background: tomato;
+  padding: 5px;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+
+  line-height: 100px;
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+}
+
+/* CSS for Flex-wrap DEMO */
+.nowrap {
+  -webkit-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+
+.wrap {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.wrap li {
+  background: gold;
+}
+
+.wrap-reverse {
+  -webkit-flex-wrap: wrap-reverse;
+  flex-wrap: wrap-reverse;
+  justify-content: center;
+}
+.wrap-reverse li {
+  background: deepskyblue;
+}
+
+/* CSS for Flex-grow DEMO */
+.fg1 {
+  flex-grow: 1;
+}
+.fg2 {
+  flex-grow: 2;
+}
+.fg3 {
+  flex-grow: 3;
+}
+.fg4 {
+  flex-grow: 4;
+}
+
+/* CSS for Justify-content DEMO */
+.flex_start {
+  justify-content: flex-start;
+  background-color: cornflowerblue;
+}
+.flex_end {
+  justify-content: flex-end;
+  background-color: cornflowerblue;
+}
+.center {
+  justify-content: center;
+  background-color: cornflowerblue;
+}
+.space_between {
+  justify-content: space-between;
+  background-color: cornflowerblue;
+}
+.space_around {
+  justify-content: space-around;
+  background-color: cornflowerblue;
+}
+.space_evenly {
+  justify-content: space-evenly;
+  background-color: cornflowerblue;
+}
+
+/* CSS for Align-Item DEMO */
+.h10 {
+  height: 600px;
+}
+.h9 {
+  height: 200px;
+  background-color: salmon;
+}
+.h8 {
+  background-color: salmon;
+  height: 300px;
+}
+.h7 {
+  background-color: salmon;
+  height: 100px;
+}
+
+.flex__start {
+  align-items: flex-start;
+}
+.flex__end {
+  align-items: flex-end;
+}
+.centerr {
+  align-items: center;
+}
+.baseline {
+  align-items: baseline;
+}
+
+/* Apni kaksha Flex Box Challenge Solution */
+
+.one {
+  display: flex;
+}
+.one div {
+  padding: 10px;
+  flex-grow: 1;
+  font-size: xx-large;
+  margin: 3px;
+  border-radius: 5px;
+  color: white;
+  background-color: orange;
+}
+div.l1 {
+  display: flex;
+  padding: 0px;
+}
+.l1 div {
+  flex-grow: 1;
+  color: orange;
+  background-color: blanchedalmond;
+}
