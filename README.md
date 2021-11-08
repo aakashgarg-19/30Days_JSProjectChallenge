@@ -51,6 +51,6 @@ Things you will learn from this Project :
  
 
 ### 7. Flex-Box Warmup
-Today I created something new. I created a website that provides a Demo of many important CSS properties along with one challenge from Apni Kaksha's solution. I created three files (an HTML file and a CSS file).
+Today I created something new. I created a website that provides a Demo of many important CSS properties along with one challenge from Apni Kaksha's solution. I created two files (an HTML file and a CSS file).
 Things you will learn from this Project :
 1. Flex-box in CSS
