@@ -54,3 +54,10 @@ Things you will learn from this Project :
 Today I created something new. I created a website that provides a Demo of many important CSS properties along with one challenge from Apni Kaksha's solution. I created two files (an HTML file and a CSS file).
 Things you will learn from this Project :
 1. Flex-box in CSS
+
+### 8 Key-Code Mentor
+Most of us know about KeyDown or KeyPress events in JavaScript, and we use event emitted to access e.key or e.code property which gives the name of Key pressed. But the problem arises when we want to use only one Shift or Ctrl because they are present multiple times. The solution to this problem is the e.keyCode property which gives a unique code of key present on the keyboard. Now to know these unique codes I made this project. I created three files (an HTML file, a CSS file, and JavaScript File). and Also published on Netlify.
+<a href="https://keycode-mentor.netlify.app/">Click here</a>
+
+Things you will get from this Project :
+1. You will become aware about the keyCode property.
