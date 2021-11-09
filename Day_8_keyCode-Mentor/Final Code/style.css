@@ -1,0 +1,34 @@
+.container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h1 {
+  font-family: "Press Start 2P", cursive;
+  font-size: 3vw;
+  text-align: center;
+}
+.keyCode {
+  display: flex;
+  background-color: gainsboro;
+  border: 2px black solid;
+  margin-bottom: 10vh;
+  width: 30vw;
+  height: 30vw;
+  font-family: "Monoton", cursive;
+  border-radius: 10px;
+  font-size: 15vw;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  border: 1px black solid;
+  width: 20vw;
+  font-family: "Press Start 2P", cursive;
+  height: 5vw;
+  font-size: 2vw;
+  border-radius: 20px;
+}
