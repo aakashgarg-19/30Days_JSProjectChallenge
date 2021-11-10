@@ -61,3 +61,9 @@ Most of us know about KeyDown or KeyPress events in JavaScript, and we use event
 
 Things you will get from this Project :
 1. You will become aware about the keyCode property.
+
+### 9 Multicolour Canvas 
+In this project, I have made a pretty simple canvas in which you can sketch your favorite stuff, with a twist of Multicolour Stroke. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. How to create a Canvas in HTML
+2. Use of HSL for creating Multicolour Stroke.
