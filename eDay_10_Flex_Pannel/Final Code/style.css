@@ -1,9 +1,8 @@
 html {
   box-sizing: border-box;
-  background: #ffc600;
   font-family: "helvetica neue";
-  font-size: 20px;
-  font-weight: 200;
+  font-size: 24px;
+  font-weight: 800;
 }
 
 body {
@@ -15,6 +14,7 @@ body {
   overflow: hidden;
   display: flex;
   flex-direction: column;
+  opacity: 0.9;
 }
 
 .panel {
@@ -81,7 +81,8 @@ a {
   text-transform: uppercase;
   font-family: "Amatic SC", cursive;
   text-shadow: 0 0 4px rgba(0, 0, 0, 0.72), 0 0 14px rgba(0, 0, 0, 0.45);
-  font-size: 2em;
+  font-size: 3em;
+  font-weight: 800;
 }
 
 .panel p:nth-child(2) {
@@ -90,7 +91,7 @@ a {
 
 .panel.open {
   flex: 5;
-  font-size: 40px;
+  font-size: 42px;
 }
 
 @media only screen and (max-width: 600px) {
