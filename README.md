@@ -10,7 +10,7 @@ Hello guys, here I am going to share 30 Cool Projects that you can make using HT
 6. And Last but not the least Follow me on Twitter[<a href="https://twitter.com/Aakash_onLand" target="_blank">@Aakash_onLand</a>] and LinkedIn[<a href="https://www.linkedin.com/in/aakash-garg-84092b1b7/" target="_blank">@AakashGarg</a>] and Like and Retweet my Posts to motivate me for doing such things more.
 
 # Basic introduction to these 30 Projects :
-[Currently 8, All 30 will be updated till 30th Nov (1 Everyday). Stay tuned !!]
+[Currently 10, All 30 will be updated till 30th Nov (1 Everyday). Stay tuned !!]
 
 ### 1. Analog Clock using HTML,CSS and JS
 We will create three files (HTML file, a CSS file, and JavaScript File), we also have an image of the clock that will be used in the background, and on top of that, we will make an hour, minute, and second hand (using HTML and CSS). These hands will rotate as per the system time using JavaScript.
@@ -67,3 +67,10 @@ In this project, I have made a pretty simple canvas in which you can sketch your
 Things you will learn from this Project :
 1. How to create a Canvas in HTML
 2. Use of HSL for creating Multicolour Stroke.
+
+### 10 Flex-Pannel Gallery 
+In this project, I made a Flex-Gallery using Flex-box property and added some transitions of CSS, and Integrated them using Javascript. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. Flex Box Property of CSS
+2. Transition of CSS
+3. How to Integrate CSS using Javascript.
