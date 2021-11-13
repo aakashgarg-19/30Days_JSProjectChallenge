@@ -6,7 +6,7 @@ Hello guys, here I am going to share 30 Cool Projects that you can make using HT
 2. Download Final and Starter code from this Repositry.
 3. Have a look at Final Project Code which I tried to make self explainatory by adding Comments.
 4. If still having some issue with any line you can feel free to contact me on Twitter[<a href="https://twitter.com/Aakash_onLand" target="_blank">@Aakash_onLand</a>] or LinkedIn[<a href="https://www.linkedin.com/in/aakash-garg-84092b1b7/" target="_blank">@AakashGarg</a>].
-5. Then Rewrite important part of code in starter file. 
+5. Then write important part of code in starter file. 
 6. And Last but not the least Follow me on Twitter[<a href="https://twitter.com/Aakash_onLand" target="_blank">@Aakash_onLand</a>] and LinkedIn[<a href="https://www.linkedin.com/in/aakash-garg-84092b1b7/" target="_blank">@AakashGarg</a>] and Like and Retweet my Posts to motivate me for doing such things more.
 
 # Basic introduction to these 30 Projects :
