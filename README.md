@@ -74,3 +74,15 @@ Things you will learn from this Project :
 1. Flex Box Property of CSS
 2. Transition of CSS
 3. How to Integrate CSS using Javascript.
+
+### 11 Click N Drag 
+In this project, I created Click and Drag feature of a Webpage. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. How to create Click and Drag feature.
+2. Properties such offsetLeft, offsetRight, scrollLeft, scrollRight and many more. To create similar effects.
+
+### 12 Weather Forecaster
+In this project, I made Weather forecaster using Weather API. I also used try-catch method to catch errors. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. Use of Async/Await to fetch API
+2. Try-Catch Method to Catch errors
