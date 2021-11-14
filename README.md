@@ -86,3 +86,8 @@ In this project, I made Weather forecaster using Weather API. I also used try-ca
 Things you will learn from this Project :
 1. Use of Async/Await to fetch API
 2. Try-Catch Method to Catch errors
+
+### 12 Array WarmUP
+In this project cum Assignment, I have 1 short assignment to practice javascript array. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. Various array method
