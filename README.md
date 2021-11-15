@@ -87,7 +87,13 @@ Things you will learn from this Project :
 1. Use of Async/Await to fetch API
 2. Try-Catch Method to Catch errors
 
-### 12 Array WarmUP
+### 13 Array WarmUP
 In this project cum Assignment, I have 1 short assignment to practice javascript array. I created three files (an HTML file, a CSS file, and JavaScript File).
 Things you will learn from this Project :
 1. Various array method
+
+### 14 Class log
+In this project, I have made a class log maintainer, here data will persist despite of several reloads we make, with the help to local storage Method of Javascript. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. Various methods to access local storage.
+2. Json method for typeconversion.
