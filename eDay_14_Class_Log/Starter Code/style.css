@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+main {
+  width: 80%;
+  margin: 15px auto 0;
+}
+
+h1 {
+  color: yellowgreen;
+  font-size: 3vw;
+  text-align: center;
+}
+
+#studentForm input[name="name"] {
+  grid-area: name;
+}
+
+#studentForm input[name="age"] {
+  grid-area: age;
+}
+
+#studentForm input[name="roll"] {
+  grid-area: roll;
+}
+button {
+  grid-area: button;
+}
+
+#studentForm {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  grid-template-areas:
+    "name name"
+    "age roll"
+    "button button";
+}
+
+#studentForm * {
+  margin: 7px;
+  padding: 7px;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+button {
+  outline: none;
+  background-color: yellowgreen;
+  color: white;
+  border: 5px solid transparent;
+  cursor: pointer;
+}
+
+#studentForm input {
+  border: 3px solid yellowgreen;
+  outline: none;
+}
+
+#studentForm input:focus {
+  border: 3px solid yellowgreen;
+}
+button:active {
+  border-color: yellowgreen;
+}
+
+.students {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border: 2px solid yellowgreen;
+  background-color: lightgoldenrodyellow;
+  color: #2f2f2f;
+  border-radius: 15px;
+}
+
+.students div {
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+
+.students div * {
+  margin: 5px;
+}
+
+.btn {
+  width: 60vw;
+  font-size: larger;
+  height: 5vh;
+  margin-top: 5vh;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  border-radius: 10px;
+}
