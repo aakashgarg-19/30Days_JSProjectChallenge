@@ -1,0 +1,33 @@
+html {
+  color: black;
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.hero {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+.box {
+  width: 50vw;
+  height: 60vh;
+  border-radius: 100px;
+  border: 15px solid rgba(128, 128, 128, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: aquamarine;
+}
+
+h1 {
+  text-shadow: 10px 10px 0 rgba(128, 128, 128, 0.5);
+  font-size: 100px;
+}
