@@ -97,3 +97,9 @@ In this project, I have made a class log maintainer, here data will persist desp
 Things you will learn from this Project :
 1. Various methods to access local storage.
 2. Json method for typeconversion.
+
+### 15 Dancing shadow effect 
+In this project, I created Dancing shadow effect of any element of a webpage. In future it can be used on Headings. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. How to create Dancing shadow effect.
+2. Various offset properties and Shadow styling. To create similar effects.
