@@ -103,3 +103,9 @@ In this project, I created Dancing shadow effect of any element of a webpage. In
 Things you will learn from this Project :
 1. How to create Dancing shadow effect.
 2. Various offset properties and Shadow styling. To create similar effects.
+
+### 16 Follow Along Navigation 
+In this project, I created Follow Along Navigation effect of a webpage. In future it can be used on various websites. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. How to create Follow along Navigation Menu effect.
+2. Various getBoundingClientRect property of an element. To create similar effects.
