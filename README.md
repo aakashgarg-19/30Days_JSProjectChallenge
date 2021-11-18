@@ -109,3 +109,8 @@ In this project, I created Follow Along Navigation effect of a webpage. In futur
 Things you will learn from this Project :
 1. How to create Follow along Navigation Menu effect.
 2. Various getBoundingClientRect property of an element. To create similar effects.
+
+### 17 Array WarmUP
+In this project cum Assignment, I have 1 short assignment to practice javascript array. I created three files (an HTML file, a CSS file, and JavaScript File). Its Part 2 of my Project 13.
+Things you will learn from this Project :
+1. Various array method
