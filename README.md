@@ -126,3 +126,9 @@ In this project, I have made a ToDo Checklist, here data will persist despite of
 Things you will learn from this Project :
 1. Various methods to access local storage.
 2. Add Event delegation to add Event listener to object not present in the starting.
+
+### 20 Password Generator
+In this project,I made a random password generator. Using Math.random() function. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. How to generate randon elements using Math.randon().
+2. How to copy content on Clipboard.
