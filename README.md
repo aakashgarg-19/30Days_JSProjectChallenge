@@ -132,3 +132,15 @@ In this project,I made a random password generator. Using Math.random() function
 Things you will learn from this Project :
 1. How to generate randon elements using Math.randon().
 2. How to copy content on Clipboard.
+
+### 20 Password Generator
+In this project,I made a random password generator. Using Math.random() function. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. How to generate randon elements using Math.randon().
+2. How to copy content on Clipboard using javascript.
+
+### 21 Playback Scrubber
+In this project,I made a Video Playback Scrubber. With the help of which can change video playback speed using Arrow keys on keyboard. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. How to listen key press event and render it to give smooth sliding effect.
+2. To control playback speed of video.
