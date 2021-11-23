@@ -144,3 +144,10 @@ In this project,I made a Video Playback Scrubber. With the help of which can cha
 Things you will learn from this Project :
 1. How to listen key press event and render it to give smooth sliding effect.
 2. To control playback speed of video.
+
+
+### 22 Sorting Comparator Demo
+In this project,I made a sorting Comparator Demo, I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. Comparator Function and how to declare and use it.
+2. Spread operator to copy array.
