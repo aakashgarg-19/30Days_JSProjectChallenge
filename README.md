@@ -151,3 +151,9 @@ In this project,I made a sorting Comparator Demo, I created three files (an HTML
 Things you will learn from this Project :
 1. Comparator Function and how to declare and use it.
 2. Spread operator to copy array.
+
+### 23 Slider Effect 
+In this project, I created a beautiful slider effect of any element of a webpage. In future it can be used on various Webpages. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. Transform and skewed CSS Property.
+2. How to change Css using JS and MouseMove event listener.
