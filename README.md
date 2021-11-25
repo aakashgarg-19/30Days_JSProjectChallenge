@@ -157,3 +157,8 @@ In this project, I created a beautiful slider effect of any element of a webpage
 Things you will learn from this Project :
 1. Transform and skewed CSS Property.
 2. How to change Css using JS and MouseMove event listener.
+
+### 24 Speaking Site 
+In this project, I made a Website that reads out words, which we have written in the text area. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project :
+1. SpeechSynthesisUtterance() inBuilt API of browser.
