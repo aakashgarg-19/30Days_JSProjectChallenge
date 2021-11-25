@@ -1,0 +1,93 @@
+html {
+  font-size: 10px;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #b7ebe3;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  background-size: 100px 50px;
+}
+
+.ss {
+  padding: 2rem;
+  width: 50rem;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 3rem;
+  font-size: 4rem;
+  position: relative;
+  background: white;
+  overflow: hidden;
+  z-index: 1;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  width: calc(100% + 4rem);
+  margin: -2rem 0 2rem -2rem;
+  padding: 0.5rem;
+  background: #9fbce2;
+  border-bottom: 5px solid #c1d0e2;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 100;
+  text-shadow: 3px 3px 0 #c1d0e2;
+}
+
+.ss input,
+.ss button {
+  width: 70%;
+  margin: 10px 0;
+  padding: 10px;
+  border: 0;
+  font-size: 2rem;
+  background: #f7f7f7;
+  outline: 0;
+}
+.ss select,
+.ss textarea {
+  width: 90%;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 1rem;
+  border: 0;
+  font-size: 2rem;
+  background: #6462621f;
+  outline: 0;
+}
+
+textarea {
+  height: 20rem;
+}
+
+.ss button {
+  background: #9fbce2;
+  border: 0;
+  width: 49%;
+  float: left;
+  margin-bottom: 0;
+  border-radius: 1rem;
+  font-size: 2rem;
+  border-bottom: 5px solid #c6d1ec;
+  cursor: pointer;
+  position: relative;
+}
+
+.ss button:active {
+  top: 2px;
+}
+
+.ss button:nth-of-type(1) {
+  margin-right: 2%;
+}
