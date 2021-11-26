@@ -162,3 +162,9 @@ Things you will learn from this Project :
 In this project, I made a Website that reads out words, which we have written in the text area. I created three files (an HTML file, a CSS file, and JavaScript File).
 Things you will learn from this Project :
 1. SpeechSynthesisUtterance() inBuilt API of browser.
+
+### 25 Countdown Timmer 
+In this project, I made a site used to set timmer for Custom and Predefined time. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project:
+1. New Date Inbuilt API of Javascript to fetch Current time.
+2. Many Mathematical tricks to work with Timmer.
