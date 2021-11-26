@@ -1,0 +1,85 @@
+html {
+  box-sizing: border-box;
+  font-size: 10px;
+  background: rgb(207, 207, 177);
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Inconsolata", monospace;
+}
+
+.display__time-left {
+  font-weight: 100;
+  font-size: 20rem;
+  margin: 0;
+  color: white;
+  text-shadow: 4px 4px 0 rgba(201, 31, 31, 0.945);
+}
+
+.display_heading {
+  font-weight: 100;
+  font-size: 10rem;
+  color: white;
+  text-shadow: 4px 4px 0 rgba(201, 31, 31, 0.945);
+  margin-top: 0;
+}
+
+.timer {
+  display: flex;
+  min-height: 80vh;
+  flex-direction: column;
+}
+
+.timer__controls input {
+  border: 2rem;
+  padding: 2rem;
+}
+
+.timer__button {
+  background: none;
+  border: 0;
+  cursor: pointer;
+  border-radius: 2rem;
+  color: white;
+  font-size: 3rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  background: rgba(0, 0, 0, 0.1);
+  border-bottom: 4px solid rgba(201, 31, 31, 0.945);
+  border-right: 2px solid rgba(201, 31, 31, 0.945);
+  border-left: 2px solid rgba(201, 31, 31, 0.945);
+  padding: 3rem;
+  margin: 2rem;
+}
+
+.timer__button:hover,
+.timer__button:focus {
+  background: rgba(0, 0, 0, 0.2);
+  outline: 0;
+}
+
+.display {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.display__end-time {
+  font-size: 5rem;
+  font-weight: 80;
+  color: rgb(214, 40, 40);
+}
+
+#custom {
+  display: inline;
+}
