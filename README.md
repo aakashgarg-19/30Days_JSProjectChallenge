@@ -168,3 +168,10 @@ In this project, I made a site used to set timmer for Custom and Predefined time
 Things you will learn from this Project:
 1. New Date Inbuilt API of Javascript to fetch Current time.
 2. Many Mathematical tricks to work with Timmer.
+
+
+### 26 My Contact
+In this project, I made contact list and Typeahead feature. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project:
+1. DOM Maniuplation
+2. Searching method of Array
