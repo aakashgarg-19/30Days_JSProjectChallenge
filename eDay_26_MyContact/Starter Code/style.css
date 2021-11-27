@@ -1,0 +1,18 @@
+.container {
+  padding: 4rem;
+  margin: 4rem 17vw;
+  box-shadow: 1px -2px 51px 14px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 1px -2px 51px 14px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px -2px 51px 14px rgba(0, 0, 0, 0.75);
+  border-radius: 2rem;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+h1 {
+  font-weight: bold;
+  font-size: 4vw;
+  text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+}
