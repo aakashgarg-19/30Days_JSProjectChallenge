@@ -145,7 +145,6 @@ Things you will learn from this Project :
 1. How to listen key press event and render it to give smooth sliding effect.
 2. To control playback speed of video.
 
-
 ### 22 Sorting Comparator Demo
 In this project,I made a sorting Comparator Demo, I created three files (an HTML file, a CSS file, and JavaScript File).
 Things you will learn from this Project :
@@ -169,9 +168,16 @@ Things you will learn from this Project:
 1. New Date Inbuilt API of Javascript to fetch Current time.
 2. Many Mathematical tricks to work with Timmer.
 
-
 ### 26 My Contact
 In this project, I made contact list and Typeahead feature. I created three files (an HTML file, a CSS file, and JavaScript File).
 Things you will learn from this Project:
 1. DOM Maniuplation
 2. Searching method of Array
+
+### 27 Animative Login Page
+In this project, I made one Login page. I included 2 unique items in it, ie Animation while filling details and the Glowing effect after submission. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project:
+1. This animation effect using CSS and JS
+2. Glowing effect using CSS
+
+
