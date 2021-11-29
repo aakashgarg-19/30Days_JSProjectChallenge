@@ -180,4 +180,8 @@ Things you will learn from this Project:
 1. This animation effect using CSS and JS
 2. Glowing effect using CSS
 
+### 28 Google Map Clone
+In this project, I made this Easiest Google Map Clone. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project:
+1. Google Map Using MapBox API
 
