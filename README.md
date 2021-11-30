@@ -10,7 +10,6 @@ Hello guys, here I am going to share 30 Cool Projects that you can make using HT
 6. And Last but not the least Follow me on Twitter[<a href="https://twitter.com/Aakash_onLand" target="_blank">@Aakash_onLand</a>] and LinkedIn[<a href="https://www.linkedin.com/in/aakash-garg-84092b1b7/" target="_blank">@AakashGarg</a>] and Like and Retweet my Posts to motivate me for doing such things more.
 
 # Basic introduction to these 30 Projects :
-[Currently 21, All 30 will be updated till 30th Nov (1 Everyday). Stay tuned !!]
 
 ### 1. Analog Clock using HTML,CSS and JS
 We will create three files (HTML file, a CSS file, and JavaScript File), we also have an image of the clock that will be used in the background, and on top of that, we will make an hour, minute, and second hand (using HTML and CSS). These hands will rotate as per the system time using JavaScript.
@@ -191,4 +190,11 @@ Things you will learn from this Project:
 1. Concepts of OOPs
 2. Canvas modifing methods.
 3. Different DOM coordinate methods.  
+
+### 30 Face Detector WebApp
+In this project, I made a Face Detector WebApp using BlazeFace API by Tenserflow. I created three files (an HTML file, a CSS file, and JavaScript File).
+Things you will learn from this Project:
+1. Async/Await 
+2. How to use BlazeFace API
+
 
